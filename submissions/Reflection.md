@@ -1,0 +1,7 @@
+# Reflection: Why Data & AI Engineering at UrbanCart
+
+The intersection of reliable data infrastructure and commercial decision-making is where engineering delivers true compounding value. UrbanCart operates in an e-commerce landscape where unit economics are dynamic, cross-channel attribution is inherently noisy, and margin management requires constant discipline. I am applying for this role because it requires both the rigorous technical foundation of a data engineer and the analytical empathy of a growth partner.
+
+What excites me about this position is the dual ownership. On the foundational side, you are responsible for robust data plumbing—ensuring ingestion from ad networks, CRM systems, and transactional databases runs without silent schema breaks or data loss. On the applied AI side, you have the opportunity to eliminate decision latency for executive leaders, converting complex cohort analysis into instantaneous, trusted self-serve tools.
+
+A demanding role with high rigor appeals to me because it demands craftsmanship. It means building systems that do not just perform on clean mock datasets, but gracefully handle real-world edge cases—such as unmapped attribution channels, negative values, and API rate limits—without breaking downstream reporting. Bridging low-level data reliability with high-impact executive decision-making is exactly the challenge I want to dedicate myself to.
